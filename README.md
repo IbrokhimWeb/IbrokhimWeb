@@ -41,6 +41,8 @@
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrokhimWeb&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 </div>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="IbrokhimWeb's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=IbrokhimWeb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
