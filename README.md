@@ -42,7 +42,7 @@
   </p>
 </div>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="IbrokhimWeb's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=IbrokhimWeb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<img src="https://activity-graph.herokuapp.com/graph?username=IbrokhimWeb&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
