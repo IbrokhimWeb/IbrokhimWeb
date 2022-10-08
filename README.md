@@ -6,11 +6,11 @@
 
 <br>
 
-
+<a href="https://www.youtube.com/c/CYBERSTEP1" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E4405f.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Instagram"></a>
 <a href="https://instagram.com/ibrokhimweb" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://t.me/IbrokhimWeb" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 <a href="https://www.linkedin.com/in/IbrokhimWeb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IbrokhimWeb)](https://twitter.com/IbrokhimWeb)
+
 
 
 ##
