@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there, I'm <a href="https://my-rezume.vercel.app/" target="_blank">Ibrokhim</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
 
-
 <h3 align="center">I'm Full Stack Js Developer</h3>
 
 ##
