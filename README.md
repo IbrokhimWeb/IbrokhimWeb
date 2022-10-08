@@ -23,7 +23,7 @@
 
 - 🌱 I'm currently learning **Nodejs, Expressjs, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IbrokhimWeb](https://github.com/IbrokhimWeb)
+- 👨‍💻 All of my projects are available at [IbrokhimWeb](https://github.com/IbrokhimWeb)
 
 - 💬 Ask me mainly about **JavaScript, Reactjs**.  I will try to help you as much as I can.
 
