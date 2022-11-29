@@ -22,7 +22,7 @@
 
 - 🔭 I currently work as a team leader in the mern stack **team**
 
-- 🌱 I'm currently learning **Nodejs, Expressjs, Laravel**
+- 🌱 I'm currently learning **Nodejs, Expressjs**
 
 - 👨‍💻 All of my projects are available at [IbrokhimWeb](https://github.com/IbrokhimWeb)
 
