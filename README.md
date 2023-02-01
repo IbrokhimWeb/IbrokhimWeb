@@ -46,7 +46,7 @@
 <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" />
 <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img width="40px" src="[https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3ANextjs-logo.svg&psig=AOvVaw3yfyYJn110eHLPN2jkeF6r&ust=1675357478957000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiO5Y7n9PwCFQAAAAAdAAAAABAD)">
+<img width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40mithun55%2Fnext-js-what-is-it-and-why-do-we-use-it-6e5bdf78bb49&psig=AOvVaw3yfyYJn110eHLPN2jkeF6r&ust=1675357478957000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiO5Y7n9PwCFQAAAAAdAAAAABAX">
 <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png">
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />  
 <img width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
