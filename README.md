@@ -46,7 +46,7 @@
 <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" />
 <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img width="40px" src="https://fabeee.co.jp/column/wp-content/uploads/2021/09/%E3%83%95%E3%82%99%E3%83%AD%E3%82%AF%E3%82%99%E3%82%B5%E3%83%A0%E3%83%8D.png">
+<img width="40px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
 <img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png">
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />  
 <img width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
