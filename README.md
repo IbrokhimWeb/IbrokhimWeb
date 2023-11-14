@@ -55,6 +55,7 @@
 <img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
 <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
+<img width="40px" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg)" alt="nodejs" />
 
 
 </div>
