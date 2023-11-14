@@ -37,27 +37,48 @@
 ### Languages and Tools:
 
 <div display="flex" align="center" >
-  
-<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img width="40px" src="https://user-images.githubusercontent.com/104122009/204273339-999ea14e-eded-45bc-9b6b-16b9a9411e2f.png" />
-<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" />
-<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img width="40px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
-<img width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png">
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />  
-<img width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
-<img width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" /> 
-<img width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
-<img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
-<img width="40px" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" alt="nodejs" />
-
-
+  <a href="https://html.com/">
+    <img height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <a/>
+  <a href="https://www.w3schools.com/css/default.asp">
+    <img height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <a/>
+  <a href="https://sass-lang.com/">
+    <img height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <a/>
+  <a href="https://getbootstrap.com/">
+    <img height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+  <a/>
+  <a href="https://tailwindcss.com/">
+    <img height="40px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
+  <a/>
+  <a href="https://www.w3schools.com/c/index.php">
+    <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />  
+  <a/>
+  <a href="https://www.javascript.com/">
+    <img height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <a/>
+  <a href="https://www.typescriptlang.org/">
+    <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <a/>
+  <a href="https://react.dev/">
+    <img height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <a/>
+  <a href="https://nextjs.org/">
+    <img height="40px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
+  <a/>
+  <a href="https://redux.js.org/">
+    <img height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png">
+  <a/>
+  <a href="https://nodejs.org/">
+    <img height="40px" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" />
+  <a/>
+  <a href="https://expressjs.com/">
+    <img height="40px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" />
+  <a/>
+  <a href="https://www.postgresql.org/">
+    <img height="50px" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" />
+  <a/>
 </div>
 
 ##
