@@ -65,7 +65,7 @@
     <img height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <a/>
   <a href="https://nextjs.org/">
-    <img height="40px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
+    <img height="40px" src="[https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png](https://cdn.worldvectorlogo.com/logos/next-js.svg)">
   <a/>
   <a href="https://redux.js.org/">
     <img height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png">
